@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter and Unity**
 
-- 📝 I regularly post effective posts on [https://instagram.com/c_sharp_hub?utm_medium=copy_link](https://instagram.com/c_sharp_hub?utm_medium=copy_link)
+- 📝 I regularly post effective posts on [https://instagram.com/the_pro_programmer?utm_medium=copy_link](https://instagram.com/the_pro_programmer?utm_medium=copy_link)
 
 - 💬 Ask me about **Unity , C# , Java & Blender3d**
 
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumar6142998&show_icons=true&locale=en" alt="rahulkumar6142998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar6142998&" alt="rahulkumar6142998" /></p>
+
